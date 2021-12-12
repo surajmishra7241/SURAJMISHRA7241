@@ -14,7 +14,7 @@
 
 ### 🧰 Languages and Tools:
 
-<!-- <img align="left" alt="HTML5" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/html.png" />
+<!-- <img align="left" alt="HTML5" width="26px" src="https://github.com/surajmishra7241/SURAJMISHRA7241/blob/master/Assets/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/javascript.svg" />
 <img align="left" alt="React" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/react-2.svg" />
