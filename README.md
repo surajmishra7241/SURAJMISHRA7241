@@ -93,7 +93,6 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/surajmishra7241/count.svg" />  
 </p>
-  [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
  
   ---
   *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
