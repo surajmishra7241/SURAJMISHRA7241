@@ -14,24 +14,9 @@
 
 ### 🧰 Languages and Tools:
 
-<!--  <img align="left" alt="HTML5" width="26px" src="https://github.com/surajmishra7241/SURAJMISHRA7241/blob/master/Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/javascript.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/react-2.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/redux.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/graphql.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/nodejs-icon.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/mongodb-icon-1.svg" />
-<img align="left" alt="C" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/c.png" />
-<img align="left" alt="C++" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/c.svg" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/git-icon.svg" />
-
-<img align="left" alt="postman" width="26px" border = "1px solid white"  color = "red" src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/hello.png" />
- -->
  [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
