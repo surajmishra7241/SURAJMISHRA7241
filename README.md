@@ -1,4 +1,4 @@
-### Hi there, I'm Suraj Mishra <img src="https://github.com/surajmishra7241/surajmishra7241/blob/master/Assets/Hi.gif" width="22px">
+### Hi there, I'm Suraj Mishra 👋 
 
 ---
 
