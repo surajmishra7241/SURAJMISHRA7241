@@ -4,7 +4,7 @@
 
 <br />
 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning React-Native
 - 👯 I’m looking to collaborate on Web Development Projects
 - 😄 I'm looking for job
 <!-- - ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design -->
